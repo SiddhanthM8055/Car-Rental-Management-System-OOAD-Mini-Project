@@ -17,3 +17,8 @@
 •	The users are allowed to cancel their reservations. 
 
 •	The users are allowed to rent additional services like navigation , WiFi and an additional driver.
+
+## Technologies Used:
+### Backend - Spring Boot
+### Frontend - React
+### Database - MongoDB
